@@ -1,16 +1,6 @@
 # kids_math_app
+![r1](https://user-images.githubusercontent.com/92023504/140275792-75797a35-b44e-4386-b9c9-9e83b6a07518.png)
+![r2](https://user-images.githubusercontent.com/92023504/140275814-4e1e6674-c605-4c00-b615-9ea10f12732b.png)
+![r3](https://user-images.githubusercontent.com/92023504/140275831-e024afc7-738c-40ff-a74f-d4a3cffad926.png)
+![r4](https://user-images.githubusercontent.com/92023504/140275842-b9ab3970-55b8-431c-bc70-9a13f06a4471.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
